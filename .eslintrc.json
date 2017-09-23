@@ -22,7 +22,7 @@
     "max-nested-callbacks": ["error", 3],
     "no-class-assign": "error",
     "no-func-assign": "error",
-    "no-multi-spaces": "error",
+    "no-multi-spaces": "off",
     "no-unused-expressions": "warn",
     "strict": ["error", "global"],
     "import/no-absolute-path": "error",
