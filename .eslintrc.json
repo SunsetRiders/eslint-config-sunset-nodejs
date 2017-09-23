@@ -25,6 +25,7 @@
     "no-multi-spaces": "off",
     "no-unused-expressions": "warn",
     "strict": ["error", "global"],
+    "comma-dangle": ["error", "never"],
     "import/no-absolute-path": "error",
     "import/no-dynamic-require": "error",
     "import/no-mutable-exports": "error",
