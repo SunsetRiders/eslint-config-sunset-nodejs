@@ -7,7 +7,7 @@ Default eslint configuration for nodejs services
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-$ npm i eslint eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-config-google --save-dev
+$ npm i eslint eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-config-google@0.6.0 --save-dev
 ```
 
 Next, install `eslint-config-sunset-nodejs`:
